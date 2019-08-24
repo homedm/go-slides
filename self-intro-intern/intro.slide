@@ -1,5 +1,5 @@
 自己紹介
-Last Change: 20/08/2019 - 09:18:16.
+Last Change: 24/08/2019 - 16:14:52.
 Tags: self-introduction
 
 電気通信大学
@@ -11,7 +11,7 @@ PowerPoint Online で作ろうとしたら, なぜか開けなかったので Go
 
 
 * 基本情報
-.background bkg.jpg.png
+.background ../img/my-icon.png
 
 
 - *東京* にある電気通信大学に通ってます <- 大阪電気通信大学ではない!!
@@ -27,7 +27,7 @@ Home Page: [[https://homedm.eim.world]]
 -> この関係ではてなのIDがjj1hgp (コールサイン) になってる
 
 * 最近ハマっているもの/ 好きなもの
-.background bkg.jpg.png
+.background ../img/my-icon.png
 - [[https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A][花譜 (Virtual Singer)]]
 - [[http://www.violet-evergarden.jp/][ヴァイオレット・エヴァーガーデン]]
 - [[https://ubports.com/][Ubuntu Touch]] ( タブレットで動く Ubuntu! )
@@ -37,7 +37,7 @@ Home Page: [[https://homedm.eim.world]]
 
 
 * プログラミング
-.background bkg.jpg.png
+.background ../img/my-icon.png
 - 中学~高校時代に N88互換BASIC に触れてプログラミング楽しい!!!と思う
     簡単に画像とか出せて見た目すごかった
 - 大学入ってプログラミングを本格的に始める
@@ -46,7 +46,7 @@ Home Page: [[https://homedm.eim.world]]
     ※ モールス符号: SOS == --- ... --- みたいなやつ
 
 * 最近の悩み
-.background bkg.jpg.png
+.background ../img/my-icon.png
 - Gopherくんのぬいぐるみほしい...
 - Lisp かっこいいけどよくわからん...
 - m5stickC, m5stickV 注文しちゃったけど何作ろう...
